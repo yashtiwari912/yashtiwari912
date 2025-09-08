@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hi there! I’m Yash Tiwari, a dedicated web developer and software engineer based in Jabalpur, India. With a solid foundation in data structures and algorithms, I’ve solved over 1000 DSA problems on platforms like GeeksforGeeks, showcasing my problem-solving abilities and passion for continuous learning. 🚀
+<p align="left">Hi there! I’m Yash Tiwari, a dedicated web developer and software engineer based in Jabalpur, India. With a solid foundation in data structures and algorithms, I’ve solved over 1000 DSA problems on platforms like GeeksforGeeks,LeetCode and CodeChef showcasing my problem-solving abilities and passion for continuous learning. 🚀
 <br>
 I am proficient in building full-stack applications using the MERN Stack (MongoDB, Express.js, React, and Node.js), creating seamless interactions between the front-end and back-end systems. Currently, I am deepening my knowledge of Next.js, focusing on server-side rendering and optimizing web applications. Additionally, I have experience in developing mobile applications using Java, enhancing my versatility as a software engineer.
 <br>
