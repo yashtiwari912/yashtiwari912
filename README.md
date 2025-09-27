@@ -182,12 +182,7 @@ I'm a final-year B.Tech CSE student at <b>JEC</b> with a strong focus on <b>Back
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Developer GIF" width="400">
 </a>
 
-<br/><br/>
-<div align="center">
 
-<a href="https://github.com/yashtiwari912"> 
- <img align="center" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="60%" align="center">   
-</a>
 
 [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/yashtiwari912)
 
@@ -198,6 +193,7 @@ I'm a final-year B.Tech CSE student at <b>JEC</b> with a strong focus on <b>Back
 ⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
 <br/><br/>
 </p>
+
 
 <p align="center">
 <a href="https://github.com/yashtiwari912" title="⚡ Full Stack Developer"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer" width="200px" height="200px" title="💻 Frontend & Backend"></a><a href="https://github.com/yashtiwari912" title="🚀 MERN Stack Expert"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Tech Stack" width="200px" height="200px" title="⚙️ Modern Tech Stack"></a>
